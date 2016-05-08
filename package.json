@@ -1,24 +1,20 @@
 {
-  "name": "Ethereum-Vanity-Creator",
-  "description": "Vanity address generator for ethereum",
+  "name": "Ethereum-Vanity-Identicon-Creator",
+  "description": "Vanity identicon generator for ethereum",
   "version": "0.0.1",
   "keywords": [
     "ethereum"
   ],
   "maintainers": [
     {
-      "name": "Whit Jack",
-      "email": "whit@whitjack.me",
-      "web": "http://github.com/whitj00"
+      "name": "Cody Watts",
+      "web": "https://github.com/codywatts"
     }
   ],
-  "dependencies": {
-    "ethereumjs-accounts": "git+https://github.com/whitj00/ethereumjs-accounts.git"
-  },
   "repository": [
     {
       "type": "git",
-      "url": "https://github.com/whitj00/ethereum-vanity"
+      "url": "https://github.com/codywatts/ethereum-vanity-identicon"
     }
   ],
   "license": "MIT"
